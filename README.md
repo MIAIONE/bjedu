@@ -1,0 +1,2 @@
+# bjedu
+*.bjedu.cn api
